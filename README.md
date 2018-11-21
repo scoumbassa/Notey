@@ -6,5 +6,5 @@ User is also able to modify these notes and the delete them.
 The AR experience in Notey was developed using Vuforia tool.
 
 Current issues:
-- User defined targets are deleted on application exit, as there are problems with uploading them to the device database.
+- User defined targets are deleted on application exit, as there are problems with adding them to the device database.
 - Delete option
