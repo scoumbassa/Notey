@@ -1,7 +1,7 @@
 # Notey
 
 Notey is an AR application for Android, developed in Unity. It enables the user to create and attach virtual notes to real objects. 
-User is also able to modify these notes and the delete them.
+By clicking on a "+" button user can create a new note. Clicking on a note itself enables user to edit the text in the note.
 
 The AR experience in Notey was developed using Vuforia tool.
 
